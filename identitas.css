@@ -1,0 +1,75 @@
+/* Selector Tag */
+body {
+  background-image: url("https://png.pngtree.com/thumb_back/fh260/background/20190828/pngtree-dark-vector-abstract-background-image_302715.jpg");
+  background-size: cover;
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 20px;
+}
+
+/* Selector ID */
+#title {
+  color: #fffefe;
+  text-align: center;
+  text-transform: uppercase;
+  margin-bottom: 20px;
+}
+
+/* Selector Class */
+.intro {
+  background-color: #bb3333;
+  padding: 15px;
+  margin-bottom: 20px;
+  font-size: 16px;
+}
+
+/* Box Model */
+.identity {
+  background-image: url(https://static.vecteezy.com/system/resources/thumbnails/013/095/010/small/blue-sky-and-beautiful-cloud-with-tree-plain-landscape-background-for-summer-season-best-weather-view-for-travelling-sky-scenery-photo.jpg);
+  padding: 20px;
+  margin: 20px 0;
+  width: 400px;
+}
+
+/* Selector Class Item */
+.item {
+  color: #2c3e50;
+  font-size: 14px;
+  margin-bottom: 5px;
+}
+
+/* Warna khusus */
+.red {
+  color: red;
+  font-weight: bold;
+  font-size: 14px;
+}
+
+.brown {
+  color: brown;
+  font-style: italic;
+  font-size: 14px;
+}
+
+/* Selector Section */
+.content {
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRwjcEqig7I04oGytVkOpXyFAVpNzVSNKmUg&s);
+  padding: 20px;
+  margin-top: 20px;
+  width: 500px;
+}
+
+/* Selector ID */
+#future {
+  font-size: 18px;
+  font-weight: bold;
+  text-align: center;
+}
+
+/* Selector Class */
+.yellow {
+  background-color: #fff3cd;
+  padding: 15px;
+  color: #856404;
+  text-align: justify;
+}
